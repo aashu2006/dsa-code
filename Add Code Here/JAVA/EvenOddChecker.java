@@ -1,11 +1,8 @@
-/*
- * Program: Even or Odd Checker
- * Author: Akshat Patil
- * Date: October 27, 2025
- * Description: 
- * This program takes an integer input from the user
- * and checks whether it is even or odd using the modulus operator.
- */
+//Program: Even or Odd Checker
+//Author: Akshat Patil
+//Date: October 27, 2025
+//Description: This program takes an integer input from the userand checks whether it is even or odd using the modulus operator.
+ 
 
 import java.util.Scanner;
 
